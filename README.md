@@ -1,4 +1,5 @@
 ## 📈 Real-Time Stock Price Prediction Dashboard
+![Real-Time Stock Price Prediction Dashboard](output.jpg)
 This project is a Streamlit-powered web dashboard that provides real-time stock price prediction using historical market data. It leverages machine learning (Linear Regression) trained on features such as Open, High, Low, Volume, and visualizes both actual and predicted closing prices. It also integrates a live TradingView chart for an interactive market view.
 
 ## 🔧 Tech Stack
